@@ -1,7 +1,17 @@
-# Cloud Security Config Checker
+# cloud-security-checker
 
-## Description
-A Python script that simulates checking cloud service configurations for common security misconfigurations.
+## Purpose
+Checks cloud service configurations for common security misconfigurations.
 
-## How to Run
-python cloud_checker.py
+## Features
+- Key features and functionalities of the project
+
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
+
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings
